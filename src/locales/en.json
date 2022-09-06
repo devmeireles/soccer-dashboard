@@ -1,0 +1,17 @@
+{
+  "core": {
+    "dashboard": "Dashboard",
+    "category": "Category",
+    "tag": "Tag",
+    "product": "Product",
+    "settings": "Settings",
+    "account": "Account",
+    "logout": "Logout"
+  },
+  "actions": {
+    "open": "Open",
+    "close": "Close",
+    "create": "Create",
+    "list": "List"
+  }
+}
